@@ -1,2 +1,2 @@
 # linguistic_granular_computing
-This supplementary material provides (1) collected linguistic expressions used for analysis; (2) consistency calculation results under different power-law indexes; and (3) intermediate calculation results.
+This repository provides the code, raw data, and some intermediate calculation results of the paper "Linguistic granular computing: Interval-based granulation and probability-sampling-based degranulation".
